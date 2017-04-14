@@ -24,4 +24,4 @@
  *
  */
 
-include ':sample', ':ultraviewpager'
+include ':sample', ':ultraviewpager', ':fragmentpagerdemo'
